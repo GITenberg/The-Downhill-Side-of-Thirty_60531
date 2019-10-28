@@ -1,0 +1,25 @@
+_repo: The-Downhill-Side-of-Thirty_60531
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shockley, Virgil F.
+    gutenberg_agent_id: '51003'
+    url: http://www.gutenberg.org/2009/agents/51003
+description: ''
+gutenberg_issued: '2019-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60531'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social control -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'United States -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+title: The Downhill Side of Thirty
+url: http://www.gutenberg.org/ebooks/60531
